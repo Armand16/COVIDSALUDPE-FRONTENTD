@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">COVID SALUD PE</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="usuario_correo_electronico">Usuario/Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="olvide_mi_contrasena">Olvidé mi contraseña</string>
+    <string name="no_tiene_datos_de_inicio_de_sesion">¿No tiene datos de inicio de sesión?</string>
+    <string name="logo">logo</string>
+    <string name="ingrese_sus_datos">INGRESE SUS DATOS</string>
+    <string name="ingrese_sus_datos_para_iniciar_su_solicitud">Ingrese sus datos para iniciar su solicitud</string>
+    <string name="identificacion">IDENTIFICACIÓN*</string>
+    <string name="numero_de_dni_o_ce">NÚMERO DE DNI O CE*</string>
+    <string name="nombre_completo">NOMBRE COMPLETO*</string>
+    <string name="fecha_de_nacimiento">FECHA DE NACIMIENTO*</string>
+    <string name="telefono">TELÉFONO*</string>
+    <string name="direccion">DIRECCIÓN*</string>
+    <string name="sexo">SEXO*</string>
+    <string name="guardar">Guardar</string>
+    <string-array name="identificacion">
+        <item>DNI</item>
+        <item>CE</item>
+    </string-array>
+    <string-array name="sexo">
+        <item>Femenino</item>
+        <item>Masculino</item>
+        <item>Deseo no especificar</item>
+    </string-array>
+</resources>
